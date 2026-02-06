@@ -1,0 +1,5 @@
+name = "mediaway"
+compatibility_date = "2026-02-06"
+
+[site]
+bucket = "./out"
