@@ -1,5 +1,7 @@
 name = "mediaway"
 compatibility_date = "2026-02-06"
 
+main = "workers-site/index.js"
+
 [site]
 bucket = "./out"
